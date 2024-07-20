@@ -2,23 +2,23 @@
     "customers": [
         {
             "id": 1,
-            "name": "Ahmed Ali"
+            "name": "Omar Ahmed"
         },
         {
             "id": 2,
-            "name": "Aya Elsayed"
+            "name": "Karim Mahmoud"
         },
         {
             "id": 3,
-            "name": "Mina Adel"
+            "name": "Ahmed Adel"
         },
         {
             "id": 4,
-            "name": "Sarah Reda"
+            "name": "Sohila Mohamed"
         },
         {
             "id": 5,
-            "name": "Mohamed Sayed"
+            "name": "Heba Sayed"
         }
     ]
 }
